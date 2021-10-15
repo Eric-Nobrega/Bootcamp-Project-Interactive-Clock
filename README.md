@@ -1,3 +1,2 @@
-# adck786
+Bootcamp Project - Interactive Clock Project
 Eric Nobrega
-Interactive Clock Project
